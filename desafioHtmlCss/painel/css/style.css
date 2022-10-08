@@ -1,0 +1,46 @@
+body{ 
+    width: 300px;
+    height: 1000px;
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+    background-color:cornsilk;
+}
+
+
+.barraLateral{
+    
+    margin: 2px;
+    padding: 3px;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    
+}
+.lista{
+    display: flex; 
+    text-decoration: none;
+    align-items: center;
+    padding: 3px;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+
+.iconList{
+    
+    margin-bottom: 1px;
+    margin-right: 5px;
+   
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+
+}
